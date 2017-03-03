@@ -1,0 +1,53 @@
+variable x = 0
+
+variable y = x - 5
+          
+         y = 0 - 5
+         y = - 5
+
+variable z = y
+         z = -5
+         
+variable d = x + 5
+         d = 0 + 5
+         d = 5
+         
+variable e = d * 5
+         e = 5 * 5
+         e = 25
+         
+variable z = e - d 
+         z = 25 - 5
+         z = 20
+         
+variable x = x + 2
+         x = 0 + 2
+         x = 2
+         
+ OR 
+ 
+ 
+         variable x = 0
+         variable y = x - 5
+         variable z = y
+         
+         variable d = x + 5
+         variable e = d * 5
+         variable z = e - d 
+         variable x = x + 2
+         
+         
+         z = ( [ x + 5 ] * 5 ) - ( x + 5 )
+         z = ( 5x + 25 ) - x - 5 
+         z = 4x - 20 
+         
+         z = y 
+         4x - 20 = x - 5
+         3x = 15
+         x = 5
+         x = 5 + 2
+         x = 7 
+
+
+
+         

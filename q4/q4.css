@@ -1,0 +1,25 @@
+tr { display: block; float: left; }
+th, td { display: block; }
+
+.info {
+    font-weight: bold;
+}
+#main {
+    
+    border-style: outset;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.one {
+  list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
+}
+p {
+    font-style: italic;
+    display: inline;
+}
+ 
+ .irc_mi {
+          width: 20px;
+}

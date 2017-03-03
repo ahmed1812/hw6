@@ -1,0 +1,31 @@
+  x = 0
+  y = 10
+  i = 0
+  holder = 0
+  
+  i > y
+  holder = existing value of holder + i
+  
+    increment i by 1
+
+end 
+
+  holder = 0 + 0 = 0
+  
+  increment i by 1
+  holder = 0 + 1 = 1
+  holder = 1 + 2 = 3
+  holder = 3 + 3 = 6
+  
+1. holder = 1
+2. holder = 2
+3. holder = 3
+4. holder = 6 
+
+    5.1. What is the final value of "holder" when the program is done running?  6
+    
+        5.2. What is the final value of "i" when the program is done running?   3
+
+
+  
+  
