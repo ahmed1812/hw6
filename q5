@@ -4,12 +4,14 @@ i(0) = i + 1
 i(0) = 0 + 1 = 1
 i = 1
 
-end
+
 
 1. i = 1
 2. i = 2
 3. i = 3
 4. i = 4
+end
 
+5. i = 5
     5.1. How many times are the lines inside the WHILE loop executed? 5
-    5.2. What is the final value of i?   4
+    5.2. What is the final value of i?   5

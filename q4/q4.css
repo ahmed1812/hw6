@@ -1,25 +1,29 @@
-tr { display: block; float: left; }
-th, td { display: block; }
 
-.info {
-    font-weight: bold;
+.one {
+  list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
 }
-#main {
-    
-    border-style: outset;
+
+ 
+ .irc_mi {
+          width: 30px;
+          height: 10;
+          margin-top: 0px;
+}
+
+a:link, a:visited {
+    background-color: black;
+    color: white;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
 }
-.one {
-  list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
+
+
+a:hover, a:active {
+    background-color: red;
 }
-p {
-    font-style: italic;
-    display: inline;
-}
- 
- .irc_mi {
-          width: 20px;
-}
+
+
+
+
